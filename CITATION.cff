@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Github
+message: 'Lenguaje m, matlab'
+type: software
+authors:
+  - given-names: Camacho Lopez
+    name-particle: Valeria
+    email: L222111475@TECTIJUANA.EDU.MX
+    affiliation: ITT
+repository-code: 'https://github.com/valecraxker/Practica3MSF'
+keywords:
+  - Controlador PI
+  - Sistema musculoesquelético
+  - Modelo matemático
+  - Simulaciones numéricas
+  - Circuito RC
+license: BSD-2-Clause
+date-released: '2025-10-30'
